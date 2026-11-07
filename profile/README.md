@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://github.com/AEIRO-USA.png" alt="AEIRO logo" width="110">
+<img src="./AEIRO%20logo%20Original-version.png" alt="AEIRO" width="300">
 
 # Africa Energy Information Research Organization
 
 **Independent research on Africa's electricity delivery**<br>
 Open energy data · Power-system models · Decision-support tools
 
-[![Website](https://img.shields.io/badge/Website-aeiro.org-0B5D3B?style=flat-square)](https://aeiro.org)
-[![Nonprofit](https://img.shields.io/badge/501(c)(3)-Nonprofit-0B5D3B?style=flat-square)](https://aeiro.org/about/)
-[![Contact](https://img.shields.io/badge/Contact-info%40aeiro.org-0B5D3B?style=flat-square)](mailto:info@aeiro.org)
+[![Website](https://img.shields.io/badge/Website-aeiro.org-033B73?style=flat-square)](https://aeiro.org)
+[![Nonprofit](https://img.shields.io/badge/501(c)(3)-Nonprofit-033B73?style=flat-square)](https://aeiro.org/about/)
+[![Contact](https://img.shields.io/badge/Contact-info%40aeiro.org-033B73?style=flat-square)](mailto:info@aeiro.org)
 
 [About](#about-aeiro) · [What we do](#what-we-do) · [Current work](#current-work) · [Using our work](#using-our-work) · [Get involved](#get-involved)
 
