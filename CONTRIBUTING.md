@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile/AEIRO%20logo%20Original-version.png" alt="AEIRO" width="180">
+</p>
+
 # Contributing to AEIRO
 
 Thank you for your interest in the work of the Africa Energy Information Research Organization (AEIRO). We welcome contributions from researchers, engineers, data scientists, students and practitioners who share our goal of reliable, evidence-based energy delivery in Africa.
@@ -39,3 +43,7 @@ By contributing, you agree that your contribution will be released under the lic
 ## Questions
 
 See [SUPPORT.md](SUPPORT.md) or contact us at [info@aeiro.org](mailto:info@aeiro.org).
+
+---
+
+<p align="center"><sub>Africa Energy Information Research Organization (AEIRO) · <a href="https://aeiro.org">aeiro.org</a> · <a href="mailto:info@aeiro.org">info@aeiro.org</a></sub></p>
