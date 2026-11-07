@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile/AEIRO%20logo%20Original-version.png" alt="AEIRO" width="180">
+</p>
+
 # Security Policy
 
 AEIRO takes the security of its code, data and platforms, including the AEIRO Data Hub, seriously.
@@ -17,3 +21,7 @@ We will acknowledge your report as soon as possible, keep you informed while we 
 ## Supported versions
 
 We address security issues in the latest version of each actively maintained repository.
+
+---
+
+<p align="center"><sub>Africa Energy Information Research Organization (AEIRO) · <a href="https://aeiro.org">aeiro.org</a> · <a href="mailto:info@aeiro.org">info@aeiro.org</a></sub></p>
