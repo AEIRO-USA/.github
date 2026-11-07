@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="profile/AEIRO%20logo%20Original-version.png" alt="AEIRO" width="180">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile/AEIRO%20original%20logo%20Light-version.png">
+    <img src="profile/AEIRO%20logo%20Original-version.png" alt="AEIRO" width="180">
+  </picture>
 </p>
 
 # Security Policy
