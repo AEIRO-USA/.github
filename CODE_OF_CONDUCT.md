@@ -27,7 +27,7 @@ This Code of Conduct applies in all AEIRO project spaces and when someone repres
 
 ## Reporting
 
-If you experience or witness unacceptable behaviour, please report it to [info@aeiro.org](mailto:info@aeiro.org). All reports will be reviewed promptly and handled as confidentially as possible.
+If you experience or witness unacceptable behavior, please report it to [info@aeiro.org](mailto:info@aeiro.org). All reports will be reviewed promptly and handled as confidentially as possible.
 
 ## Enforcement
 
