@@ -28,7 +28,7 @@ Thank you for your interest in the work of the Africa Energy Information Researc
 ## Data and research standards
 
 - **Cite every source.** Every dataset, figure or claim should be traceable to a source (publication, agency, utility report or AEIRO fieldwork).
-- **Document your method.** Explain how data was collected, cleaned or modelled so others can reproduce it.
+- **Document your method.** Explain how data was collected, cleaned or modeled so others can reproduce it.
 - **Protect privacy.** Never include personal information, customer-level utility data or confidential documents.
 - **Respect licenses.** Only contribute data and code you have the right to share.
 
