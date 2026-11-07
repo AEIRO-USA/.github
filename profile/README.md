@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="./AEIRO%20logo%20Original-version.png" alt="AEIRO" width="300">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./AEIRO%20original%20logo%20Light-version.png">
+  <img src="./AEIRO%20logo%20Original-version.png" alt="AEIRO" width="300">
+</picture>
 
 # Africa Energy Information Research Organization
 
