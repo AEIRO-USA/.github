@@ -1,2 +1,2 @@
 # .github
-AEIRO organization profile and community health files
+AEIRO’s GitHub front page and contributor guidelines
