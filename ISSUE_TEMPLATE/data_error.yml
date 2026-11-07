@@ -1,0 +1,32 @@
+name: Report a data error
+description: Tell us about an incorrect figure, broken source or inconsistency in AEIRO data.
+title: "[Data error]: "
+labels: ["data-error"]
+body:
+  - type: markdown
+    attributes:
+      value: Thank you for helping keep AEIRO's data accurate.
+  - type: input
+    id: location
+    attributes:
+      label: Where is the error?
+      description: File name, dataset, table, chart or page link.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong?
+      description: Describe the value or information that appears incorrect.
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: What should it be?
+      description: The correct value or information, if you know it.
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: A link or reference that supports the correction.
