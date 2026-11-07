@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile/AEIRO%20logo%20Original-version.png" alt="AEIRO" width="180">
+</p>
+
 # Code of Conduct
 
 AEIRO brings together people from many countries, disciplines and backgrounds. We are committed to making participation in our projects a respectful, professional and harassment-free experience for everyone.
@@ -36,3 +40,7 @@ AEIRO maintainers may remove, edit or reject comments, commits, code, issues and
 ## Attribution
 
 This Code of Conduct is informed by the [Contributor Covenant](https://www.contributor-covenant.org/).
+
+---
+
+<p align="center"><sub>Africa Energy Information Research Organization (AEIRO) · <a href="https://aeiro.org">aeiro.org</a> · <a href="mailto:info@aeiro.org">info@aeiro.org</a></sub></p>
