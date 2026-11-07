@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Partnerships, data sharing and general inquiries
+    url: https://aeiro.org/#contact
+    about: Contact the AEIRO team at info@aeiro.org or through our website.
+  - name: Volunteer or join the team
+    url: https://aeiro.org/support/
+    about: See ways to support AEIRO and open roles.
+  - name: Report a security issue
+    url: https://github.com/AEIRO-USA/.github/blob/main/SECURITY.md
+    about: Please do not report security issues publicly. Follow our security policy instead.

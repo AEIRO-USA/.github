@@ -1,0 +1,22 @@
+name: Report a problem
+description: Report a bug or problem with AEIRO code, models or tools.
+title: "[Problem]: "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the problem and what you expected to happen.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: How can we see the problem ourselves?
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: For example operating system, browser or software version.
